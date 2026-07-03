@@ -25,20 +25,8 @@ This project is intended for learning, portfolio demonstration, and frontend dev
 * 🌐 Threat Intelligence Lookup
 * 📅 Investigation Timeline
 * 🔔 Notification System
-* 🌙 Dark / Light Mode
 * 📱 Fully Responsive Design
 * 📉 Interactive Charts using Chart.js
-
----
-
-## 🛠️ Technologies Used
-
-* HTML5
-* CSS3
-* JavaScript (ES6)
-* Chart.js
-* Font Awesome
-* Google Fonts (Inter & JetBrains Mono)
 
 ---
 
