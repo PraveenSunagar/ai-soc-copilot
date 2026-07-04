@@ -25,7 +25,7 @@ This project is intended for learning, portfolio demonstration, and frontend dev
 * 🌐 Threat Intelligence Lookup
 * 📅 Investigation Timeline
 * 🔔 Notification System
-* 📱 Fully Responsive Design
+
 * 📉 Interactive Charts using Chart.js
 
 ---
