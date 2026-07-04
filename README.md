@@ -64,8 +64,6 @@ No installation or additional dependencies are required.
 
 ## 📸 Screenshots
 
-Add screenshots of your dashboard here.
-
 Example:
 
 ```
